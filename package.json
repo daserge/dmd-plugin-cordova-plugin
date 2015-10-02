@@ -1,7 +1,7 @@
 {
   "name": "dmd-plugin-cordova-plugin",
   "author": "Sergey Shakhnazarov <daserge@yandex.ru>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "dmd-plugin-cordova-plugin",
   "repository": "https://github.com/daserge/dmd-plugin-cordova-plugin.git",
   "main": "./lib/dmd-plugin-cordova-plugin.js",
